@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
-<head>
-		<title>Hello, world!</title>
-	</head>
+
+		
+	
 	<body>
 		<h1> Hello, world!</h1>
 		<h2></h2>

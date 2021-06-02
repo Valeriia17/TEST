@@ -1,4 +1,4 @@
-<!html> 
+<html> 
 <head>
 	<title>Hello, world!</title>
 </head>
@@ -12,6 +12,6 @@
 		<p>This is my first website. < br /> I hope you liked it. </p> 
 		<hr />
 		<p>Another paragraph.</p>
-		<img src = ”c:\documents\image.png”/> ( optionaly: width= “50px”)
+		<img src = ”c:\documents\image.png”/> 
 </body>
 </html>

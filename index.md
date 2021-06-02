@@ -1,6 +1,5 @@
 <!doctype html>
-    <head>Test
-    </head>
+    
     <body>
 		<h1> Hello, world!</h1>
 		<p>This is my first website.<br/>I hope you liked it.</p> 

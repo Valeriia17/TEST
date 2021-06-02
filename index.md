@@ -1,5 +1,8 @@
-
-	<body>
+<!doctype html>
+<html lang="en">
+    <head>Test
+    </head>
+    <body>
 		<h1> Hello, world!</h1>
 		<p>This is my first website.<br/>I hope you liked it.</p> 
 		<hr />
@@ -45,5 +48,7 @@
 		<p>To do list:<br/><del>done</del><br/><del>done</del></p>
 		<p style="color:blue;">blue</p>
 		<p style="color:red;">red</p>	
+	</body>
+</html>
 
 

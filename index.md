@@ -45,7 +45,6 @@
 	</ul>
 		
 	<p>Only highlight <mark> the most important notes!</mark></p>
-	<p>To do list:</p><br/><del>done</del><br/><del>done</del>
-		
+	<p>To do list:</p><br/><del>done</del><br/><del>done</del>		
 </body>
 	

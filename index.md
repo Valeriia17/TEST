@@ -2,8 +2,6 @@
 <head>
 	<title>Hello!</title>
 </head>
-
-    
    <body>
 	<h1> Hello!</h1>
 	<p>This is my first website.<br/>I hope you liked it.</p> 

@@ -27,6 +27,8 @@
 			</tr>
 			
 		<p>Another paragraph.</p>
+		<strong>Bold the whole sentence!</strong>
+		Or only <strong>bold</strong> one word!
 	
 </body>
 </html>

@@ -29,6 +29,7 @@
 		<p>Another paragraph.</p>
 		<strong>Bold the whole sentence!</strong>
 		Or only <strong>bold</strong> one word!
+			<em>Make the sentecne in italics.</em>
 	
 </body>
 </html>

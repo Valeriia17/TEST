@@ -30,6 +30,7 @@
 		<strong>Bold the whole sentence!</strong>
 		Or only <strong>bold</strong> one word!
 			<em>Make the sentecne in italics.</em>
+			<u>You can also underline the text.</u>
 	
 </body>
 </html>

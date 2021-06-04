@@ -1,6 +1,7 @@
 <!doctype html>
+logo: /assets/img/logo.png
+show_downloads: true
 theme: jekyll-theme-minimal
-logo: [https://cpmr-islands.org/test/#iLightbox[postimages]]
 <head>
 	<title>Hello!</title>
 </head>

@@ -6,6 +6,7 @@
 	<h1> Hello!</h1>
 	<p>This is my first website.<br/>I hope you liked it.</p> 
 	<hr />
+	<h2> Here you can find some info about the webseit.</h2>
 	<table>
 		<tr>
 			<td>Item 1</td>

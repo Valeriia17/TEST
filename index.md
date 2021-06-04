@@ -1,5 +1,5 @@
 <!doctype html>
-logo: /assets/img/logo.png
+logo: test.png
 show_downloads: true
 theme: jekyll-theme-minimal
 <head>

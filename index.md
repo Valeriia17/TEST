@@ -1,6 +1,6 @@
 <!doctype html>
 theme: jekyll-theme-minimal
-<img src="https://cpmr-islands.org/test/#iLightbox[postimages]/0>
+<p><img src="https://cpmr-islands.org/test/#iLightbox[postimages]/0></p>
 <head>
 	<title>Hello!</title>
 </head>

@@ -1,5 +1,6 @@
 <!doctype html>
-logo:[C:\Users\Asus\Downloads\test.png]
+theme: jekyll-theme-minimal
+<img src="https://cpmr-islands.org/test/#iLightbox[postimages]/0>
 <head>
 	<title>Hello!</title>
 </head>

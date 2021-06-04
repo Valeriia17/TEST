@@ -1,4 +1,4 @@
-<!doctype html>
+!<!doctype html>
 <img src= "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png" class="site-logo" width="150" height="auto">
 <head>
 	<title>Hello!</title>

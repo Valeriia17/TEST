@@ -52,7 +52,7 @@ theme: jekyll-theme-minimal
 	<p>To do list:<br/><del>done</del><br/><del>done</del></p>		
 	<p style="color:blue;">blue</p>
 	<p style="color:red;">red</p>	
-	</body>
+</body>
 </html>
 
 

@@ -1,7 +1,5 @@
 <!doctype html>
-logo: ..test.png
-show_downloads: true
-theme: jekyll-theme-minimal
+	<img src="/assets/{{ site.logo }}" class="site-logo" width="150" height="auto">
 <head>
 	<title>Hello!</title>
 </head>

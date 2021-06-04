@@ -30,9 +30,11 @@
 		</tr>
 			
 	<p>Another paragraph.</p>
+	<h3> Some more details.</h3>
 	<p><strong>Bold the whole sentence!</strong><br/>Or only <strong>bold</strong> one word!</p>
 	<p><em>Make the sentecne in italics.</em></p>
 	<p><u>You can also underline the text.</u></p>
+	<h4> Some more details.</h4>
 	<ol>
 		<li> Item </li>
 		<li> Item </li>

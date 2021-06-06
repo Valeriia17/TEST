@@ -1,5 +1,6 @@
 <html>
-logo: /assets/img/test.png
+	title: Minimal theme
+	logo: /assets/img/test.png
 	
 <head>
 	<title>Hello!</title>
